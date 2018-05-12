@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+Spirit-slist is a magic platform to search for the right medium for your seance experience, just like you searching for second-hand bicycles on craigslist. This magic platform hides behind the real craigslist website.
 
-You can use the [editor on GitHub](https://github.com/tongwu226/spirit-slist/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+To enter it,  you should go to the craigslist page and read out loud the passcode: “Connect me….with nothing….which is to say…connect me with anything.” The magic platform then would gradually unfold in front of you.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Then, you can ask the question you want to know through your seance experience, the webpage would process your question with magic power, then prompts you to the right column to refer to. For example, I would ask, “I want to connect to my cat, who died two years ago.” The page would show up the column “community”, which has submenus called “pet” & “lost & found”.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tongwu226/spirit-slist/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The last function, when you say "please lead me to customer services agent," spirit-slist would process your request and prompt "proper" medium to learn about your concern and needs and connects you to the mysterious world. For example, the picture of Starbucks' coffee cups is referred to the traditional coffee ground reading, and picture of Hong Kong actor Lam Ching-ying dressing as a Taoist priest refers to Taoist spirit calling ceremony. When you are done consulting with these agents, you could simply say "back to the reality," and all the customer service agent pages would be shut down and closed. And you are back to the homepage of the normal craigslist page.
